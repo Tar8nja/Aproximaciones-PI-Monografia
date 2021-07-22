@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=jsYwFizhncE
 https://www.youtube.com/watch?v=HEfHFsfGXjs
 https://youtu.be/ils7GZqp_iE
 http://hyperphysics.phy-astr.gsu.edu/hbasees/elacol2.html
+
+Simulación:
+https://prajwalsouza.github.io/Experiments/Colliding-Blocks.html
 */
 
 #include <iostream>
