@@ -86,7 +86,7 @@ double poligonInscrit(double radiCerc, double numCost){
 
 
 int main(){
-	long long int n;
+	int n;
 	cout<<setprecision(32);
 	
 	cout<<"Valor de costats: "; cin>>n;
@@ -99,7 +99,6 @@ int main(){
 	t=(clock()-t)/CLOCKS_PER_SEC;
 	cout<<t<<" segons."<<endl<<endl;
 	
-	cout<<M_PI;
 	getch();
 	return 0;
 }
