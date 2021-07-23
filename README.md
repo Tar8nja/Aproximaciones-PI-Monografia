@@ -7,6 +7,7 @@ Hay dos programas que dan el mismo resultado, sólo cambia la velocidad y el nú
 Estos programas simulan el método de Arquímedes para aproximar PI.
 
 Si_Handicap --> Simula todos los polígonos hasta el deseado.
+
 No-Handicap --> Simula sólo el polígono deseado.
 
 ## Series de Basilea
