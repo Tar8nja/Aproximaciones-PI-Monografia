@@ -1,7 +1,0 @@
-Se puede escoger método con 'Handicap' o sin:
-
-- El método con 'Handicap' evalua todos los polígonos hasta llegar al introducido por el usuario
-
-- El otro método es mucho más eficaz, pues sólo evalua el polígono introducido por el usuario
-
-Ambos métodos llegan a la misma conclusión, sólo que el que no tene 'Handicap' es mucho más veloz. 
